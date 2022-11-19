@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @kalu-joy
 - 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning Python, SQL and ML Visualisation
-- 💞️ I’m looking to collaborate on any python related projects
 - 📫 How to reach me: www.linkedin.com/in/kalu-joy-625970122
 
 <!---
